@@ -1,0 +1,104 @@
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\RaportKu.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\RaportKu.exe
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\RaportKu.pdb
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\RaportKu.xml
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.exe
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.xml
+c:\users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.vbprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\asus\documents\visual studio 2013\Projects\RaportKu\RaportKu\obj\Debug\RaportKu.Form2.resources
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\RaportKu.exe.config
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.exe
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.xml
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.pdb
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\RaportKu.exe
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\RaportKu.pdb
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\RaportKu.xml
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.Resources.resources
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.GenerateResource.Cache
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.Dashboard.resources
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.vbprojAssemblyReference.cache
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CoreCompileInputs.cache
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CopyComplete
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.Login.resources
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+D:\Tugas!\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.cetak.resources
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.popmap.resources
+D:\Tugas!\RaportKu\RaportKu\obj\Debug\RaportKu.popnis.resources
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\RaportKu.exe.config
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.exe
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.xml
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.pdb
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.vbprojAssemblyReference.cache
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.cetak.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.Dashboard.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.Login.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.Resources.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.popmap.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.popnis.resources
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.GenerateResource.cache
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CoreCompileInputs.cache
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\RaportKu.exe
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\RaportKu.pdb
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\RaportKu.xml
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Tugas! X\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+D:\Tugas! X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CopyComplete
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.vbprojAssemblyReference.cache
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.cetak.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.Dashboard.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.Login.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.Resources.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.popmap.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.popnis.resources
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.GenerateResource.cache
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CoreCompileInputs.cache
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.exe
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.xml
+D:\Tingkat X\RaportKu\RaportKu\obj\Debug\RaportKu.pdb
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.vbprojAssemblyReference.cache
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.cetak.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.Dashboard.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.Login.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.Resources.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.popmap.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.popnis.resources
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.GenerateResource.cache
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CoreCompileInputs.cache
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.exe
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.xml
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.pdb
+D:\X\RaportKu\RaportKu\bin\Debug\RaportKu.exe.config
+D:\X\RaportKu\RaportKu\bin\Debug\RaportKu.exe
+D:\X\RaportKu\RaportKu\bin\Debug\RaportKu.pdb
+D:\X\RaportKu\RaportKu\bin\Debug\RaportKu.xml
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\X\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\X\RaportKu\RaportKu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\X\RaportKu\RaportKu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+D:\X\RaportKu\RaportKu\obj\Debug\RaportKu.vbproj.CopyComplete
